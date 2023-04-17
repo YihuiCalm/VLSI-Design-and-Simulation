@@ -1,5 +1,5 @@
 # VLSI-Design-and-Simulation
-Courseworks of CMOS VLSI design using Cadence Virtuoso in AMI 0.60u C5N technology.
+Courseworks of CMOS VLSI design using Cadence Virtuoso in AMI 0.60u C5N technology and verifications using Verilog.
 
 Component includes schematics and layouts of basic logic component like logic gates, adder, and multiplier.
 
