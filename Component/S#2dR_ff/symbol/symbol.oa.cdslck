@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      yihui
+HostName                       redhat-vlab01.seas.gwu.edu
+ProcessIdentifier              35115
+ProcessCreationTime_UTC        1670819188
+ProcessCreationTime_Readable   Sun Dec 11 23:26:28 2022 EST
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /home/ead/yihui/cadence/Lab/S#2dR_ff/symbol/symbol.oa.cdslck.dirlck
+TimeEditLocked                 Mon Dec 12 03:50:56 2022 EST
